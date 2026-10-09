@@ -1,0 +1,344 @@
+[
+  {
+    "id": "parque-la-leona",
+    "name": "Parque La Leona",
+    "category": "attractions",
+    "originalCategory": "Attractions",
+    "lat": 14.1086125,
+    "lng": -87.2029219,
+    "image": null
+  },
+  {
+    "id": "la-negrita",
+    "name": "La Negrita",
+    "category": "restaurants",
+    "originalCategory": "Restaurants / Bars",
+    "lat": 14.0983536,
+    "lng": -87.189283,
+    "image": null
+  },
+  {
+    "id": "baleadas-el-birichiche",
+    "name": "Baleadas El Birichiche",
+    "category": "streetFood",
+    "originalCategory": "Street Food",
+    "lat": 14.0964221,
+    "lng": -87.2043991,
+    "image": null
+  },
+  {
+    "id": "parque-cerro-juana-lainez",
+    "name": "Parque Cerro Juana Lainez",
+    "category": "attractions",
+    "originalCategory": "Attractions",
+    "lat": 14.0934751,
+    "lng": -87.2011641,
+    "image": null
+  },
+  {
+    "id": "parque-el-picacho",
+    "name": "Parque El Picacho",
+    "category": "attractions",
+    "originalCategory": "Attractions",
+    "lat": 14.1204335,
+    "lng": -87.1939497,
+    "image": null
+  },
+  {
+    "id": "plaza-libertador-general-san-martin",
+    "name": "Plaza Libertador General San Martín",
+    "category": "attractions",
+    "originalCategory": "Attractions",
+    "lat": 14.1025165,
+    "lng": -87.1965327,
+    "image": null
+  },
+  {
+    "id": "mas-x-menos-supermarket",
+    "name": "Mas x Menos supermarket",
+    "category": "groceries",
+    "originalCategory": "Groceries",
+    "lat": 14.1045625,
+    "lng": -87.193248,
+    "image": null
+  },
+  {
+    "id": "despensa-familiar-guanacaste",
+    "name": "Despensa Familiar • Guanacaste",
+    "category": "groceries",
+    "originalCategory": "Groceries",
+    "lat": 14.1059589,
+    "lng": -87.1983472,
+    "image": null
+  },
+  {
+    "id": "taco-mexi",
+    "name": "Taco Mexi",
+    "category": "restaurants",
+    "originalCategory": "Restaurants / Bars",
+    "lat": 14.1052386,
+    "lng": -87.1998735,
+    "image": null
+  },
+  {
+    "id": "la-ronda-rooftop",
+    "name": "La Ronda Rooftop",
+    "category": "restaurants",
+    "originalCategory": "Restaurants / Bars",
+    "lat": 14.1066705,
+    "lng": -87.2014627,
+    "image": null
+  },
+  {
+    "id": "baldio",
+    "name": "Baldío",
+    "category": "restaurants",
+    "originalCategory": "Restaurants / Bars",
+    "lat": 14.1063058,
+    "lng": -87.2002819,
+    "image": null
+  },
+  {
+    "id": "the-golden-pig-coffee-roasters-via-palmira",
+    "name": "The Golden Pig Coffee Roasters Vía Palmira",
+    "category": "coffee",
+    "originalCategory": "Coffee Shops",
+    "lat": 14.1006056,
+    "lng": -87.1963945,
+    "image": null
+  },
+  {
+    "id": "supermercado-paiz-los-proceres",
+    "name": "Supermercado Paiz • Los Proceres",
+    "category": "groceries",
+    "originalCategory": "Groceries",
+    "lat": 14.102066,
+    "lng": -87.1853256,
+    "image": null
+  },
+  {
+    "id": "san-miguel-market",
+    "name": "San Miguel Market",
+    "category": "groceries",
+    "originalCategory": "Groceries",
+    "lat": 14.1057739,
+    "lng": -87.1990144,
+    "image": null
+  },
+  {
+    "id": "baleadas-el-guanacaste",
+    "name": "Baleadas El Guanacaste",
+    "category": "streetFood",
+    "originalCategory": "Street Food",
+    "lat": 14.1055023,
+    "lng": -87.19759,
+    "image": null
+  },
+  {
+    "id": "cultural-center-of-spain-in-tegucigalpa",
+    "name": "Cultural Center of Spain in Tegucigalpa",
+    "category": "attractions",
+    "originalCategory": "Attractions",
+    "lat": 14.104002,
+    "lng": -87.1945663,
+    "image": null
+  },
+  {
+    "id": "redondel-de-los-artesanos",
+    "name": "Redondel de los Artesanos",
+    "category": "attractions",
+    "originalCategory": "Attractions",
+    "lat": 14.1037619,
+    "lng": -87.1950907,
+    "image": null
+  },
+  {
+    "id": "cafe-paradiso",
+    "name": "Café Paradiso",
+    "category": "restaurants",
+    "originalCategory": "Restaurants / Bars",
+    "lat": 14.10506,
+    "lng": -87.1997522,
+    "image": null
+  },
+  {
+    "id": "catedral-de-san-miguel-arcangel",
+    "name": "Catedral de San Miguel Arcángel",
+    "category": "attractions",
+    "originalCategory": "Attractions",
+    "lat": 14.1054824,
+    "lng": -87.204415,
+    "image": null
+  },
+  {
+    "id": "basilica-suyapa",
+    "name": "Basílica Suyapa",
+    "category": "attractions",
+    "originalCategory": "Attractions",
+    "lat": 14.0804425,
+    "lng": -87.1573382,
+    "image": null
+  },
+  {
+    "id": "iglesia-santa-maria-de-los-dolores",
+    "name": "Iglesia Santa María de los Dolores",
+    "category": "attractions",
+    "originalCategory": "Attractions",
+    "lat": 14.1081149,
+    "lng": -87.2065303,
+    "image": null
+  },
+  {
+    "id": "museum-for-national-identity",
+    "name": "Museum for National Identity",
+    "category": "attractions",
+    "originalCategory": "Attractions",
+    "lat": 14.106653,
+    "lng": -87.2081828,
+    "image": null
+  },
+  {
+    "id": "galeria-nacional-de-arte",
+    "name": "Galeria Nacional de Arte",
+    "category": "attractions",
+    "originalCategory": "Attractions",
+    "lat": 14.1064306,
+    "lng": -87.2082942,
+    "image": null
+  },
+  {
+    "id": "teatro-nacional-manuel-bonilla",
+    "name": "Teatro Nacional Manuel Bonilla",
+    "category": "attractions",
+    "originalCategory": "Attractions",
+    "lat": 14.1062917,
+    "lng": -87.2091893,
+    "image": null
+  },
+  {
+    "id": "la-taberna-artesanal-san-carlos",
+    "name": "La Taberna Artesanal / San Carlos",
+    "category": "restaurants",
+    "originalCategory": "Restaurants / Bars",
+    "lat": 14.1025087,
+    "lng": -87.1902577,
+    "image": null
+  },
+  {
+    "id": "avec-bakery",
+    "name": "Avec Bakery",
+    "category": "coffee",
+    "originalCategory": "Coffee Shops",
+    "lat": 14.1021453,
+    "lng": -87.1885217,
+    "image": null
+  },
+  {
+    "id": "military-history-museum",
+    "name": "Military History Museum",
+    "category": "attractions",
+    "originalCategory": "Attractions",
+    "lat": 14.1057036,
+    "lng": -87.2021944,
+    "image": null
+  },
+  {
+    "id": "juan-ramon-molina-national-library",
+    "name": "Juan Ramón Molina National Library",
+    "category": "attractions",
+    "originalCategory": "Attractions",
+    "lat": 14.1047668,
+    "lng": -87.2031107,
+    "image": null
+  },
+  {
+    "id": "tato-s-wings-col-san-carlos-tgu",
+    "name": "Tato's Wings | Col. San Carlos | TGU",
+    "category": "restaurants",
+    "originalCategory": "Restaurants / Bars",
+    "lat": 14.1008217,
+    "lng": -87.1904433,
+    "image": null
+  },
+  {
+    "id": "cafetano-macuelizo",
+    "name": "Cafetano • Macuelizo",
+    "category": "coffee",
+    "originalCategory": "Coffee Shops",
+    "lat": 14.1019658,
+    "lng": -87.1897765,
+    "image": null
+  },
+  {
+    "id": "siwichi",
+    "name": "Siwichi",
+    "category": "restaurants",
+    "originalCategory": "Restaurants / Bars",
+    "lat": 14.1018889,
+    "lng": -87.186171,
+    "image": null
+  },
+  {
+    "id": "bowls-n-rolls-poke-bar",
+    "name": "Bowls N Rolls Poké Bar",
+    "category": "restaurants",
+    "originalCategory": "Restaurants / Bars",
+    "lat": 14.1020457,
+    "lng": -87.1865146,
+    "image": null
+  },
+  {
+    "id": "baleadas-chicho",
+    "name": "Baleadas Chicho",
+    "category": "streetFood",
+    "originalCategory": "Street Food",
+    "lat": 14.1018028,
+    "lng": -87.1848034,
+    "image": null
+  },
+  {
+    "id": "pizzeria-tito",
+    "name": "Pizzeria Tito",
+    "category": "restaurants",
+    "originalCategory": "Restaurants / Bars",
+    "lat": 14.099475,
+    "lng": -87.191295,
+    "image": null
+  },
+  {
+    "id": "mua",
+    "name": "MUA",
+    "category": "attractions",
+    "originalCategory": "Attractions",
+    "lat": 14.1046112,
+    "lng": -87.2000088,
+    "image": null
+  },
+  {
+    "id": "casa-del-teatro-memorias",
+    "name": "Casa del Teatro Memorias",
+    "category": "attractions",
+    "originalCategory": "Attractions",
+    "lat": 14.1051087,
+    "lng": -87.2000755,
+    "image": null
+  },
+  {
+    "id": "terminal-buses-a-cantarranas-y-valle-de-angeles",
+    "name": "Terminal buses a Cantarranas y Valle de Ángeles",
+    "category": "transport",
+    "originalCategory": "Transport",
+    "lat": 14.1061353,
+    "lng": -87.1978818,
+    "image": null
+  },
+  {
+    "id": "museo-de-la-memoria-antigua-casa-presidencial",
+    "name": "Museo de la Memoria - Antigua Casa Presidencial",
+    "category": "attractions",
+    "originalCategory": "Attractions",
+    "lat": 14.1040058,
+    "lng": -87.2059486,
+    "image": null
+  }
+]

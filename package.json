@@ -1,0 +1,22 @@
+{
+  "name": "explore-guanacaste",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Bilingual (EN/ES) neighborhood guide for Airbnb guests in Barrio Guanacaste, Tegucigalpa.",
+  "scripts": {
+    "places": "node scripts/build-places.mjs",
+    "dev": "npm run places && vite",
+    "build": "npm run places && vite build",
+    "preview": "vite preview",
+    "verify": "node scripts/verify.mjs"
+  },
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "vite": "^8.3.4"
+  }
+}
